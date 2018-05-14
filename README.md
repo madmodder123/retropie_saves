@@ -3,6 +3,8 @@ Want to play a local multiplayer game but don't want to unlock all the levels, c
 
 Just make sure the save games match the ROM files that you are using! 
 
+I was getting tired of downloading saves and converting them to be compatible with RetroPie so I figured I would save other people the hassle!
+
 Be aware that not all of the naming conventions are the same, I would like have them all named with the "Re-dump" naming convention [Game Title (USA/Europe/Japan/etc)] but I haven't had time to do this.
 
 These are mainly focused on multiplayer objects or other unlockables such as mini-games.
