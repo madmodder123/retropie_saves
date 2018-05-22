@@ -13,3 +13,5 @@ Games such as RPG saves will not be included, because you should just play and e
 These are mostly USA versions of games because for a lot of cases they are the ones you should be playing due to NTSC generally being better than the PAL versions (although i'm sure there are exceptions).
 
 MURICA!
+
+Just download this as a .ZIP file and extract it to your ROM directory (by default it is /home/pi/RetroPie/roms)
